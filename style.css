@@ -55,6 +55,15 @@ input.submit:hover {
   
 }
 
+a {
+  text-decoration: none;
+}
+a:link {
+  color: black;
+}
+
+
+
 @media only screen and (max-device-width: 480px){
   .container 
   {
