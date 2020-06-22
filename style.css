@@ -47,6 +47,8 @@ input.submit:hover {
 
 .output {
   border-radius: 5px;
+  font-weight: 700;
+  font-size: 15px;
   text-align: center;
   padding: 5px;
   margin:auto;
