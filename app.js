@@ -20,9 +20,3 @@ function billTotal() {
 
 billTotal()
 
-document.getElementById('total').onkeydown = function (e) {
-  if (e.keyCode == 13) {
-    billTotal()
-    // submit
-  }
-};
